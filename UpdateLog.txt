@@ -1,0 +1,19 @@
++ Retirer possibilité payement par chèque
++ Livraison gratuite à partir de 40€
++ Ajouter pays pour la livraison
+	BE, FR, DE, LU, NL
++ Retirer option retrait en magasin  
++ Retirer stock virtuel avec possibilité valeur négative
++ Mettre à jour les conditions d'utilisations sur la site web
++ Voir pourquoi page de confirmation de payement ne fonctionne pas
+	Vu avec mr Deville
++ Configuration livraison via BPost
++ Mise à jour des informations banquaires 
++ Ajout commandes SQL
++ Configuration message auto
++ Reduire taille logo bpost
++ Problème à la création d'un compte
+	résolu en même temps qie probl!me de confirmation de payement avec mr Deville
++ Mise à jour des informations de livraison  
++ Mise à jour de la section "à propos"
+Modifier le carrousel de la page d'accueil
