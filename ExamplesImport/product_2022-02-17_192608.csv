@@ -1,0 +1,22 @@
+"Product ID";Image;Nom;Référence;Catégorie;"Montant HT";"Montant TTC";Quantité;État;Position
+21;http://192.168.0.168/25/sega-megadrive.jpg;"Sega Megadrive";Seg-0;Sega;500.000000;605;0;1
+20;http://192.168.0.168/24/cartouche-tetris-gb.jpg;"Cartouche Tetris GB";;Accueil;20.000000;24.2;1;0
+19;http://192.168.0.168/22/customizable-mug.jpg;"Mug personnalisable";demo_14;"Accessoires de maison";13.900000;16.82;300;0
+18;http://192.168.0.168/20/carnet-de-notes-renard.jpg;"Carnet de notes Colibri";demo_10;Papeterie;12.900000;15.61;1200;0
+17;http://192.168.0.168/19/carnet-de-notes-renard.jpg;"Carnet de notes Ours brun";demo_9;Papeterie;12.900000;15.61;1200;0
+16;http://192.168.0.168/18/carnet-de-notes-renard.jpg;"Carnet de notes Renard";demo_8;Papeterie;12.900000;15.61;1200;0
+15;http://192.168.0.168/23/pack-mug-affiche-encadree.jpg;"Pack Mug + Affiche encadrée";demo_21;"Accessoires de maison";35.000000;42.35;100;0
+14;http://192.168.0.168/17/illustration-vectorielle-colibri.jpg;"Illustration vectorielle Colibri";demo_20;Microsoft;9.000000;10.89;300;0
+13;http://192.168.0.168/16/illustration-vectorielle-ours-brun.jpg;"Illustration vectorielle Ours brun";demo_19;Microsoft;9.000000;10.89;300;0
+12;http://192.168.0.168/15/illustration-vectorielle-renard.jpg;"Illustration vectorielle Renard";demo_18;Microsoft;9.000000;10.89;300;0
+11;http://192.168.0.168/13/coussin-colibri.jpg;"Coussin colibri";demo_17;"Accessoires de maison";18.900000;22.87;600;0
+10;http://192.168.0.168/11/coussin-ours-brun.jpg;"Coussin ours brun";demo_16;"Accessoires de maison";18.900000;22.87;600;0
+9;http://192.168.0.168/9/coussin-renard.jpg;"Coussin renard";demo_15;"Accessoires de maison";18.900000;22.87;600;0
+8;http://192.168.0.168/8/mug-today-is-a-good-day.jpg;"Mug Today is a good day";demo_13;Accueil;11.900000;14.4;300;0
+7;http://192.168.0.168/7/mug-the-adventure-begins.jpg;"Mug The adventure begins";demo_12;"Accessoires de maison";11.900000;14.4;300;0
+6;http://192.168.0.168/6/mug-the-best-is-yet-to-come.jpg;"Mug The best is yet to come";demo_11;"Accessoires de maison";11.900000;14.4;300;0
+5;http://192.168.0.168/5/affiche-encadree-today-is-a-good-day.jpg;"Affiche encadrée Today is a good day";demo_7;Microsoft;29.000000;35.09;900;0
+4;http://192.168.0.168/4/affiche-encadree-the-adventure-begins.jpg;"Affiche encadrée The adventure begins";demo_5;Accueil;29.000000;35.09;1500;0
+3;http://192.168.0.168/3/affiche-encadree-the-best-is-yet-to-come.jpg;"Affiche encadrée The best is yet to come";demo_6;Microsoft;29.000000;35.09;1500;0
+2;http://192.168.0.168/21/brown-bear-printed-sweater.jpg;"Pull imprimé colibri";demo_3;Accueil;35.900000;34.75;2100;0
+1;http://192.168.0.168/1/hummingbird-printed-t-shirt.jpg;"T-shirt imprimé colibri";demo_1;Hommes;23.900000;23.14;2400;0
