@@ -1,0 +1,10 @@
+- extract that zip file.
+
+- Rename that folder into "blackhawk4x"
+
+- Now put this folder into your themes folder 
+
+- Now you can active "blackhawk4x" themes from backoffice of your online store.
+
+
+https://www.prestashop.com/forums/topic/1052088-free-theme-myshop-prestashop-17-theme-with-crazyelements-page-builder/
